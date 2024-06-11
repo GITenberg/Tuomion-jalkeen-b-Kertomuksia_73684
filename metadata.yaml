@@ -1,0 +1,38 @@
+_repo: Tuomion-jalkeen-b-Kertomuksia_73684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Virtala, Ilma
+    aliases:
+    - Näätänen, Ilma Karoliina
+    - Naatanen, Ilma Karoliina
+    - Virtanen, Ilma Karoliina
+    birthdate: 1886
+    deathdate: 1931
+    gutenberg_agent_id: '57094'
+    url: http://www.gutenberg.org/2009/agents/57094
+    wikipedia: https://fi.wikipedia.org/wiki/Ilma_Virtala
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73684'
+language: fi
+pgterms:marc905: 20240512033627virtala
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aTampere :$bKust.Oy Tietäjä, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Maalarin vaimo -- Vapautettu -- Isänmaa -- Synnin tuoksu -- Punakaarttipäällikön
+  muistelmia -- Ryssä on ryssä -- Kahdesti kuolemaan tuomittu -- Tuomion jälkeen --
+  Syyttömät -- Pataljoonan päällikkö -- Aatteen puolesta -- Sovinto.
+title: 'Tuomion jälkeen : $b Kertomuksia'
+url: http://www.gutenberg.org/ebooks/73684
